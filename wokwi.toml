@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/Alarme_U4.uf2"
+elf = "build/Alarme_U4.elf"
